@@ -1,0 +1,20 @@
+{
+  "name": "TEST_PROJET_INTENSIV",
+  "version": "1.0.0",
+  "description": "TEST_PROJET_INTENSIV",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kenko-7/TEST_PROJET_INTENSIV.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kenko-7/TEST_PROJET_INTENSIV/issues"
+  },
+  "homepage": "https://github.com/kenko-7/TEST_PROJET_INTENSIV#readme"
+}
